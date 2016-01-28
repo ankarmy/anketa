@@ -1,0 +1,17 @@
+#mainForm{
+}
+.questionRow{
+	overflow: hidden;
+	display: block;
+	border: 3px solid green;
+	margin: 2px;
+}
+.questionItem,
+.selectItem{
+	display: inline;
+	float: left;
+	border: 1px solid black;
+	width: 200px;
+	margin: 2px;
+	height: 50px;
+}
